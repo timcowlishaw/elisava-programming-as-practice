@@ -1,4 +1,4 @@
-# Class 05 - MQTT
+# Class 07 - MQTT
 
 ## 1. Install
 
